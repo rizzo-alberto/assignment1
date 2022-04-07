@@ -6,5 +6,7 @@ schede_madri
 processori
 
 # periferiche
+ tastiere
+ mouse
 
 Elettronica Padovana
