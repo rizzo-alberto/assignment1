@@ -1,7 +1,7 @@
 2008079
 2011879
 
-# componenti
+# Componenti
 schede_madri
 processori
 
